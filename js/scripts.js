@@ -17,7 +17,12 @@ for (let index = array.length-1; index >=0; index--){
 $(document).ready(function(){
   $("form").submit(function(event){
     event.preventDefault();
-    const romanInput = $("input#number").val();
+    const romanInput = parseInt($("input#number").val());
+    if(!romanInput || romanInput < 1 || romanInput > 3999){
+      alert("Incorrect input, the number must be between 1 and 3,999");
+      $("input#number").val("");
+      return;
+    }
     $("#answer").text(romanInput);
   });
 
