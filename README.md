@@ -19,9 +19,18 @@ _{This application will take any given number and convert it into the appropriat
 | Behavior | Input | Output|
 |----------|-------|-------|
 | Takes User input and returns it | Text | Text |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Checks if input is Correct(input must be interger number) | text | "Incorrect input, the number must be between 1 and 3,999" |
+| Check if input between 1 and 3,999 | 4000 | "Incorrect input, the number must be between 1 and 3,999" |
+| Checks decimal place in number |  |  |
+1 8 7
+C LXXX VII
+781
+
+948
+
+
+
+CMXLVIII
 |  |  |  |
 |  |  |  |
 |  |  |  |
