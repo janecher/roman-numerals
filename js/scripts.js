@@ -123,5 +123,6 @@ $(document).ready(function(){
     }
     const romanString = createRomanNumeralsString(convertNumbersToRoman(numberInput));
     $("#answer").text(romanString);
+    $(".answer").show();
   });
 });

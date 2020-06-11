@@ -1,0 +1,8 @@
+.answer{
+  display: none;
+  margin-top: 30px;
+}
+
+#answer{
+  font-weight: bold;
+}

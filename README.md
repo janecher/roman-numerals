@@ -1,8 +1,8 @@
-# _{Roman Numeral converter}_
+# Roman Numeral Converter
 
 #### _{Converts inputted numbers to roman numerals}, {06/11/2020}_
 
-#### By **Evgeniya Chernaya** **Jerrod Styrk**
+#### By **Evgeniya Chernaya**, **Jerrod Styrk**
 
 ## Description
 
@@ -10,11 +10,10 @@ _{This application will take any given number and convert it into the appropriat
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Clone/download the repository
+* Click on index.html file and see the result in the browser
+
+## Spec
 
 | Behavior | Input | Output|
 |----------|-------|-------|
@@ -31,11 +30,12 @@ _{This application will take any given number and convert it into the appropriat
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{No known bugs}_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+* Evgeniya: evgenya.chernaya@gmail.com
+* Jerrod : jstyrk@citadel.edu
 
 ## Technologies Used
 
@@ -49,4 +49,4 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 _This software is licensed under the MIT license_
 
-Copyright (c) 2020 **Evgeniya Chernaya** **Jerrod Styrk**.
+Copyright (c) 2020 **Evgeniya Chernaya**, **Jerrod Styrk**.
